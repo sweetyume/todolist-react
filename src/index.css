@@ -1,0 +1,13 @@
+body {
+    padding: 50px;
+    background-color: #66CCFF;
+    font-family: sans-serif;
+    text-align: center;    
+    /* background-image: url('./public/images/cover.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #container {
+    display: flex;
+    justify-content: center;
+  }
